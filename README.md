@@ -1,7 +1,7 @@
 <h1 align="center"> Imersão Cloud DevOps (Alura + Google Cloud)</h1>
 
 <p align="center">
-  Projeto desenvolvido durante a <strong>Imersão Cloud DevOps</strong> da Alura, em parceria com o Google Cloud — três dias de estudo intensivo aplicando **DevOps na prática**: containerização, pipelines CI/CD e deploy em nuvem.
+  Projeto desenvolvido durante a <strong>Imersão Cloud DevOps</strong> da Alura, em parceria com o Google Cloud — três dias de estudo intensivo aplicando DevOps na prática: containerização, pipelines CI/CD e deploy em nuvem.
 </p>
 
 ---
