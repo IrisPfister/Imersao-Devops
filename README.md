@@ -10,7 +10,7 @@
 
 Este repositório é resultado da imersão focada em automação e cultura DevOps, utilizando contêineres, integração contínua e deploy na nuvem com Google Cloud.
 
-- Estrutura completa do pipeline: **Docker**, **CI/CD**, deploy no **Google Cloud Run**.
+- Estrutura completa do pipeline: **Docker**, **CI/CD**, deploy no **Google Cloud**.
 - Aplicação backend simples API em Python/FastAPI.
 - Objetivo: aplicar conceitos reais de DevOps que aceleram fluxos de desenvolvimento e deploys confiáveis.
 
@@ -26,7 +26,7 @@ Este repositório é resultado da imersão focada em automação e cultura DevOp
 </div>
 
 <p align="center">
-  Docker • GitHub Actions (ou outra ferramenta de CI/CD) • Google Cloud Platform (Cloud Run) • Python/FastAPI
+  Docker • GitHub Actions • Google Cloud Platform (Cloud Run) • Python/FastAPI
 </p>
 
 ---
